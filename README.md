@@ -67,8 +67,11 @@ Informatics Engineering student at **Universitas Muhammadiyah Malang** with a pr
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img src="https://streak-stats.demolab.com/?user=Ainz-25&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ainz-25&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
