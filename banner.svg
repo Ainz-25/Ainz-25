@@ -1,18 +1,6 @@
 <svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a1b27" />
-      <stop offset="50%" stop-color="#24283b" />
-      <stop offset="100%" stop-color="#1f2335" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7aa2f7" />
-      <stop offset="50%" stop-color="#bb9af7" />
-      <stop offset="100%" stop-color="#7dcfff" />
-    </linearGradient>
-  </defs>
-
-  <rect width="1000" height="220" rx="12" fill="url(#bg)" />
+  <rect width="1000" height="220" rx="12" fill="#1a1b27" />
+  <rect x="2" y="2" width="996" height="216" rx="10" stroke="#292e42" stroke-width="2" />
 
   <circle cx="60" cy="45" r="3" fill="#414868" />
   <circle cx="80" cy="45" r="3" fill="#414868" />
@@ -21,10 +9,10 @@
   <circle cx="920" cy="175" r="3" fill="#414868" />
   <circle cx="940" cy="175" r="3" fill="#414868" />
 
-  <path d="M0 185 Q 250 155, 500 185 T 1000 175 L 1000 220 L 0 220 Z" fill="#7aa2f7" fill-opacity="0.12" />
-  <path d="M0 198 Q 300 175, 600 198 T 1000 190 L 1000 220 L 0 220 Z" fill="#bb9af7" fill-opacity="0.15" />
+  <path d="M0 185 Q 250 155, 500 185 T 1000 175 L 1000 220 L 0 220 Z" fill="#7aa2f7" fill-opacity="0.14" />
+  <path d="M0 198 Q 300 175, 600 198 T 1000 190 L 1000 220 L 0 220 Z" fill="#bb9af7" fill-opacity="0.16" />
 
-  <rect x="350" y="48" width="300" height="3" rx="1.5" fill="url(#accent)" />
+  <rect x="350" y="48" width="300" height="3" rx="1.5" fill="#7aa2f7" />
 
   <text x="500" y="108" font-family="Segoe UI, Ubuntu, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">
     Rizki Adi Pranata
