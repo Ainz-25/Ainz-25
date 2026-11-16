@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Rizki Adi Pranata Banner" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Rizki+Adi+Pranata+%F0%9F%91%8B;Informatics+Student+%40+UMM;Full-Stack+%26+Mobile+Developer;IoT+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
