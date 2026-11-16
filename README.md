@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Rizki%20Adi%20Pranata&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=16" width="100%" />
+  <img src="./banner.svg" width="100%" alt="Rizki Adi Pranata Banner" />
 </div>
 
 <div align="center">
